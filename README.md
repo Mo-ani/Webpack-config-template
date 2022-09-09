@@ -1,4 +1,4 @@
-# Uso de Webpack y Babel
+# Webpack starter
 ---
 
 ### Notas: 
